@@ -28,6 +28,7 @@ Switch cameras, add broadcast graphics, bring in remote guests, and go live on Y
 - **Inputs:** cameras, capture cards (HDMI/SDI), screens, NDI®, IP cameras (RTSP / SRT / RTMP / HLS / UDP), video playlists, PowerPoint/Keynote and web pages.
 - **Remote guests:** up to 8 guests join from a browser link, with a return feed and mix-minus.
 - **Graphics:** over 90 one-click templates for text, lower thirds, tickers, countdowns and scoreboards; Title Designer with animated templates; live data from Excel, CSV, JSON, XML or Google Sheets.
+- **New in 1.3:** see and position overlays in Preview before taking them live, drag scenes and overlays to reorder them, and keep the studio running in the system tray when you close the window (your stream keeps going), with automatic project backups.
 - **Playback control (new in 1.2):** seek, skip, frame-step, rewind and fast-forward videos from the Preview and Program monitors with elapsed / remaining time on screen; cue the next playlist video in Preview while the current one stays on air.
 - **Virtual sets**, colour grading, video scopes, and a telestrator.
 - **Audio:** per-channel EQ, gate, compressor and delay; aux buses; audio-follow-video.
