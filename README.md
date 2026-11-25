@@ -27,7 +27,8 @@ Switch cameras, add broadcast graphics, bring in remote guests, and go live on Y
 - **Multistreaming:** encode once and stream to every platform at the same time, plus an automatic vertical 9:16 stream for TikTok, Reels and Shorts.
 - **Inputs:** cameras, capture cards (HDMI/SDI), screens, NDI®, IP cameras (RTSP / SRT / RTMP / HLS / UDP), video playlists, PowerPoint/Keynote and web pages.
 - **Remote guests:** up to 8 guests join from a browser link, with a return feed and mix-minus.
-- **Graphics:** Title Designer with animated templates, lower thirds, tickers, scoreboards, and live data from Excel, CSV, JSON, XML or Google Sheets.
+- **Graphics:** over 90 one-click templates for text, lower thirds, tickers, countdowns and scoreboards; Title Designer with animated templates; live data from Excel, CSV, JSON, XML or Google Sheets.
+- **Playback control (new in 1.2):** seek, skip, frame-step, rewind and fast-forward videos from the Preview and Program monitors with elapsed / remaining time on screen; cue the next playlist video in Preview while the current one stays on air.
 - **Virtual sets**, colour grading, video scopes, and a telestrator.
 - **Audio:** per-channel EQ, gate, compressor and delay; aux buses; audio-follow-video.
 - **Recording:** MP4, MKV, MOV, AVI, MPEG-2 and audio-only; MultiCorder ISO recording of every camera; instant replay from up to 8 angles.
